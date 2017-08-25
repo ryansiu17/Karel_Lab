@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=Problem1
+comment0.text=\r\n\ @author\ \:\ \ D.\ Appel\r\n
+comment1.params=
+comment1.target=void\ rearrangeBeepers()
+comment2.params=
+comment2.target=void\ moveToBeepers()
+comment3.params=
+comment3.target=void\ pickUpBeepers()
+comment4.params=
+comment4.target=void\ moveToNewLocation()
+comment5.params=
+comment5.target=void\ placeBeepers()
+comment6.params=
+comment6.target=void\ returnToStart()
+numComments=7

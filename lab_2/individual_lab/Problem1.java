@@ -15,6 +15,38 @@ public class Problem1 extends Robot
     }
 
     public void setPins(){
-        
+    set4();
+    }
+    public void set4(){
+    movePut();
+    move();
+    movePut();
+    move();
+    movePut();
+    move();
+    movePut();
+    move();
+    }
+    public void set3(){
+    movePut();
+    move();
+    movePut();
+    move();
+    movePut();
+    move();
+    }
+    public void set2(){
+    movePut();
+    move();
+    movePut();
+    move();
+    }
+    public void set1(){
+    movePut();
+    move();
+    }
+    public void movePut(){
+    move();
+    putBeeper();        
     }
 }

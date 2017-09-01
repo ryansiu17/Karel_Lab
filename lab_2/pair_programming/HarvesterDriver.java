@@ -22,7 +22,7 @@ public class HarvesterDriver implements Directions
         World.setBeeperColor(Color.magenta);
         World.setStreetColor(Color.blue);
         World.setNeutroniumColor(Color.green.darker());
-        World.setDelay(50);  
+        World.setDelay(25);  
         World.setVisible(true);
     }
 }

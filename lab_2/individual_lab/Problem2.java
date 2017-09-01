@@ -17,4 +17,36 @@ public class Problem2 extends Robot
     public void setField(){
         
     }
+    public void set4(){
+    movePut();
+    move();
+    movePut();
+    move();
+    movePut();
+    move();
+    movePut();
+    move();
+    }
+    public void set3(){
+    movePut();
+    move();
+    movePut();
+    move();
+    movePut();
+    move();
+    }
+    public void set2(){
+    movePut();
+    move();
+    movePut();
+    move();
+    }
+    public void set1(){
+    movePut();
+    move();
+    }
+    public void movePut(){
+    move();
+    putBeeper();        
+    }
 }

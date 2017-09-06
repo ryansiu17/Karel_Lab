@@ -15,7 +15,21 @@ public class Problem1 extends Robot
     }
 
     public void checkSurrounded(){
-        
+    wallAhead();
+    wallAhead();
+    wallAhead();
+    wallAheadFinal();
     }
-}
+    public void wallAhead() {
+        if (!frontIsClear()) {
+            turnLeft(); 
+        }
+    }
+    public void wallAheadFinal() {
+        if (!frontIsClear()) {
+            turnOff();    
+        }
+    }
+    }
+
 

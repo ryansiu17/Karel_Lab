@@ -1,4 +1,9 @@
 #BlueJ class context
-comment0.params=
-comment0.target=void\ checkSurrounded()
-numComments=1
+comment0.target=Problem1
+comment1.params=
+comment1.target=void\ checkSurrounded()
+comment2.params=
+comment2.target=void\ wallAhead()
+comment3.params=
+comment3.target=void\ wallAheadFinal()
+numComments=4

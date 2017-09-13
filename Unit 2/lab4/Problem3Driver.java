@@ -1,4 +1,4 @@
-package lab4;
+ 
 
  
 
@@ -8,7 +8,7 @@ import java.awt.Color;
 public class Problem3Driver implements Directions
 {
     public static void main(String args[])  {
-        Problem3 lucy = new Problem3(7,5,East,100);
+        Problem3new lucy = new Problem3new(7,5,East,100);
         lucy.closeAllWindows();
         lucy.turnOff();
         

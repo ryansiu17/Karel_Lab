@@ -1,4 +1,4 @@
-package lab4;
+ 
 
  
 import kareltherobot.*; 
@@ -7,9 +7,9 @@ import kareltherobot.*;
 /**
  * @author :  D. Appel
  */
-public class Problem3 extends Robot
+public class Problem3new extends Robot
 {
-    public Problem3(int st, int av, Direction dir, int numBeepers) {
+    public Problem3new(int st, int av, Direction dir, int numBeepers) {
         super(st, av, dir, numBeepers);
     }
     public void closeAllWindows() {
